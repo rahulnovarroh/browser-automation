@@ -1,4 +1,4 @@
-# Browser Automation Agent
+# Browser Automation using browser-use
 
 A containerized browser automation service that uses Playwright and AI to perform tasks in a web browser.
 
