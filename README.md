@@ -17,8 +17,7 @@ This service provides an API endpoint that accepts natural language task descrip
 
 ## Architecture
 
-<img width="1022" alt="image" src="https://github.com/user-attachments/assets/e20433cd-4201-4afd-9f85-5d772a2a0a53" />
-
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/0970f851-9bec-47b7-a139-abd2eebe7ff7" />
 
 ## Prerequisites
 
