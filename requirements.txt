@@ -1,0 +1,8 @@
+aiohttp
+asyncio
+langchain-openai
+python-dotenv
+browser-use
+aioredis
+prometheus-client
+pydantic
