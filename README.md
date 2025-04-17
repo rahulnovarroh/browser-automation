@@ -6,8 +6,6 @@ A containerized browser automation service that uses Playwright and AI to perfor
 
 This service provides an API endpoint that accepts natural language task descriptions and uses an AI agent to perform those tasks in a headless browser. The service is containerized for easy deployment and includes monitoring capabilities via Loki and Grafana.
 
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/88a4a7ea-70e5-4fa8-8d69-ac740002eb37" />
-
 ## Features
 
 - **AI-Powered Browser Automation**: Uses LangChain and OpenAI to interpret and execute browser tasks
@@ -16,6 +14,11 @@ This service provides an API endpoint that accepts natural language task descrip
 - **API Endpoint**: Simple REST API for task submission
 - **Monitoring**: Log monitoring with Loki and Grafana
 - **Caching**: In-memory caching for repeated tasks
+
+## Architecture
+
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/e20433cd-4201-4afd-9f85-5d772a2a0a53" />
+
 
 ## Prerequisites
 
