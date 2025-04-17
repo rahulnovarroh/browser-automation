@@ -24,8 +24,8 @@ This service provides an API endpoint that accepts natural language task descrip
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/browser-agent.git
-   cd browser-agent
+   git clone https://github.com/rahulnovarroh/browser-automation.git
+   cd browser-automation
    ```
 
 2. Create an `.env` file with your OpenAI API key:
@@ -35,7 +35,7 @@ This service provides an API endpoint that accepts natural language task descrip
 
 3. Start the services:
    ```bash
-   docker-compose up -d
+   docker-compose up -d --build
    ```
 
 4. The following services will be available:
