@@ -15,6 +15,9 @@ This service provides an API endpoint that accepts natural language task descrip
 - **Monitoring**: Log monitoring with Loki and Grafana
 - **Caching**: In-memory caching for repeated tasks
 
+## Usage
+https://youtu.be/unSiLvqt-BI
+
 ## Architecture
 
 <img width="1022" alt="image" src="https://github.com/user-attachments/assets/e20433cd-4201-4afd-9f85-5d772a2a0a53" />
