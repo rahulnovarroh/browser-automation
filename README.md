@@ -16,7 +16,7 @@ This service provides an API endpoint that accepts natural language task descrip
 - **Caching**: In-memory caching for repeated tasks
 
 ## Usage
-https://youtu.be/unSiLvqt-BI
+[![Watch the demo](https://img.youtube.com/vi/unSiLvqt-BI/0.jpg)](https://www.youtube.com/watch?v=unSiLvqt-BI)
 
 ## Architecture
 
